@@ -1,11 +1,11 @@
 <?php
 
-namespace Nasirkhan\ModuleManager;
+namespace junaidraza\ModuleManager;
 
 use Illuminate\Support\Facades\Facade;
 
 /**
- * @see \Nasirkhan\ModuleManager\Skeleton\SkeletonClass
+ * @see \junaidraza\ModuleManager\Skeleton\SkeletonClass
  */
 class ModuleManagerFacade extends Facade
 {

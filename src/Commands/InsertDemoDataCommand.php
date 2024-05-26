@@ -1,6 +1,6 @@
 <?php
 
-namespace Nasirkhan\ModuleManager\Commands;
+namespace junaidraza\ModuleManager\Commands;
 
 use Illuminate\Console\Command;
 use Illuminate\Support\Facades\Auth;

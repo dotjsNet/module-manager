@@ -1,6 +1,6 @@
 <?php
 
-namespace Nasirkhan\ModuleManager\Commands;
+namespace junaidraza\ModuleManager\Commands;
 
 use App\Models\Permission;
 use Illuminate\Console\Command;

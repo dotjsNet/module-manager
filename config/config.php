@@ -14,7 +14,7 @@ return [
     'stubs' => [
         // 'path' => base_path('stubs/laravel-starter-stubs'),
 
-        'path' => base_path('vendor/nasirkhan/module-manager/src/stubs'),
+        'path' => base_path('vendor/dotjsnet/module-manager/src/stubs'),
     ],
 
     'module' => [
@@ -57,10 +57,10 @@ return [
     */
 
     'composer' => [
-        'vendor' => 'nasirkhan',
+        'vendor' => 'junaidraza',
         'author' => [
-            'name'  => 'Nasir Khan',
-            'email' => 'nasir8891@gmail.com',
+            'name'  => 'Junaid Raza',
+            'email' => 'payincent@gmail.com',
         ],
     ],
 

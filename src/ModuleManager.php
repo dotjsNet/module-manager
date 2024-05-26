@@ -1,6 +1,6 @@
 <?php
 
-namespace Nasirkhan\ModuleManager;
+namespace junaidraza\ModuleManager;
 
 class ModuleManager
 {

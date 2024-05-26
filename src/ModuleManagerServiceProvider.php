@@ -1,12 +1,12 @@
 <?php
 
-namespace Nasirkhan\ModuleManager;
+namespace junaidraza\ModuleManager;
 
 use Illuminate\Support\Facades\File;
 use Illuminate\Support\ServiceProvider;
-use Nasirkhan\ModuleManager\Commands\AuthPermissionsCommand;
-use Nasirkhan\ModuleManager\Commands\InsertDemoDataCommand;
-use Nasirkhan\ModuleManager\Commands\ModuleBuildCommand;
+use junaidraza\ModuleManager\Commands\AuthPermissionsCommand;
+use junaidraza\ModuleManager\Commands\InsertDemoDataCommand;
+use junaidraza\ModuleManager\Commands\ModuleBuildCommand;
 
 class ModuleManagerServiceProvider extends ServiceProvider
 {

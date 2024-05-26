@@ -1,19 +1,19 @@
 {
-  "name": "nasirkhan/module-manager",
-  "description": "Module Manager & Generator for Laravel Starter Kit (https://github.com/nasirkhan/laravel-starter)",
+  "name": "dotjsnet/module-manager",
+  "description": "Module Manager & Generator for Laravel Starter Kit (https://github.com/junaidraza/laravel-starter)",
   "keywords": [
-    "nasirkhan",
+    "junaidraza",
     "module-manager",
     "laravel-starter",
     "module-generator"
   ],
-  "homepage": "https://github.com/nasirkhan/module-manager",
+  "homepage": "https://github.com/dotjsnet/module-manager",
   "license": "MIT",
   "type": "library",
   "authors": [
     {
-      "name": "Nasir Khan",
-      "email": "nasir8891@gmail.com",
+      "name": "Junaid Raza",
+      "email": "payincent@gmail.com",
       "role": "Developer"
     }
   ],
@@ -24,12 +24,12 @@
   "require-dev": {},
   "autoload": {
     "psr-4": {
-      "Nasirkhan\\ModuleManager\\": "src"
+      "junaidraza\\ModuleManager\\": "src"
     }
   },
   "autoload-dev": {
     "psr-4": {
-      "Nasirkhan\\ModuleManager\\Tests\\": "tests"
+      "junaidraza\\ModuleManager\\Tests\\": "tests"
     }
   },
   "scripts": {
@@ -42,10 +42,10 @@
   "extra": {
     "laravel": {
       "providers": [
-        "Nasirkhan\\ModuleManager\\ModuleManagerServiceProvider"
+        "junaidraza\\ModuleManager\\ModuleManagerServiceProvider"
       ],
       "aliases": {
-        "ModuleManager": "Nasirkhan\\ModuleManager\\ModuleManagerFacade"
+        "ModuleManager": "junaidraza\\ModuleManager\\ModuleManagerFacade"
       }
     }
   }

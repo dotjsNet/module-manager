@@ -1,8 +1,8 @@
-# Module Manager & Generator for [Laravel Starter](https://github.com/nasirkhan/laravel-starter)
+# Module Manager & Generator for [Laravel Starter](https://github.com/junaidraza/laravel-starter)
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/nasirkhan/module-manager.svg?style=flat-square)](https://packagist.org/packages/nasirkhan/module-manager)
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/dotjsnet/module-manager.svg?style=flat-square)](https://packagist.org/packages/dotjsnet/module-manager)
 
-**Module Manager** is used to manage and generate `Module` for the ***Laravel Starter***. [Laravel Starter](https://github.com/nasirkhan/laravel-starter) is a CMS-like modular starter boilerplate application project, built with the latest release of Laravel. This package is preinstalled with the Laravel Starter. 
+**Module Manager** is used to manage and generate `Module` for the ***Laravel Starter***. [Laravel Starter](https://github.com/junaidraza/laravel-starter) is a CMS-like modular starter boilerplate application project, built with the latest release of Laravel. This package is preinstalled with the Laravel Starter. 
 
 | **Laravel** | **module-manager** |
 |-------------|---------------------|
@@ -15,7 +15,7 @@
 You can install the package via Composer:
 
 ```bash
-composer require nasirkhan/module-manager
+composer require dotjsnet/module-manager
 ```
 
 After installing the package, you need to publish the config file and the module stub files. You can do this by running the following command:
@@ -56,11 +56,11 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
 ### Security
 
-If you discover any security-related issues, please email nasir8891@gmail.com instead of using the issue tracker.
+If you discover any security-related issues, please email payincent@gmail.com instead of using the issue tracker.
 
 ## Credits
 
--   [Nasir Khan](https://github.com/nasirkhan)
+-   [Junaid Raza](https://github.com/junaidraza)
 -   [All Contributors](../../contributors)
 
 ## License
